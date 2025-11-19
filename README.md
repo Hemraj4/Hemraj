@@ -4,7 +4,7 @@
 🎓 **First-year IT student** at *Green Peace Lincoln College*  
 💻 Passionate about **coding, data science, and creative tech projects**  
 📍 From **Itahari, Nepal**  
-🚀 Currently learning **Python**, **Java**, and **Web Development**, **Data Science
+🚀 Currently learning **Python**, **SQL**, and **AL/ML**, **Data Science
 
 ---
 
